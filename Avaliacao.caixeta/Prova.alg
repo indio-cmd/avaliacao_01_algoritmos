@@ -78,8 +78,4 @@ inicio
 
     escreval("Opção invalida")
 
-fimescolha
-
-ate opcao = 4
-
 fimalgoritmo
